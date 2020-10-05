@@ -6,3 +6,7 @@ dist/
 docs/api/
 coverage/
 .DS_Store
+.cache
+
+refapp/
+tmp_versions/
